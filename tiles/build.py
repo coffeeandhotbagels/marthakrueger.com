@@ -3,7 +3,7 @@ S = pathlib.Path(__file__).resolve().parent
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 tiles = [
  dict(n=1, slug="corporate-gifting", img="t1.png", pos="40% 50%", h="Need to send a lot of gifts?", s="Corporate gifting, without the scramble.", cta="Corporate gifting", logo=True),
- dict(n=2, slug="holiday-2026", img="t2.png", pos="50% 62%", h="Planning holiday gifts? Start here.", s="December is decided in October.", cta="Holiday gifting", logo=True),
+ dict(n=2, slug="holiday-2026", img="t2.png", pos="50% 62%", h="Planning holiday gifts? Start here.", s="The best holiday gifts are planned early.", cta="Holiday gifting", logo=True),
  dict(n=3, slug="build-your-own", img="t3.jpg", pos="50% 30%", h="Build a gift they’ll actually want.", s="Choose the products. We’ll make it beautiful.", cta="Build your own", logo=True),
  dict(n=4, slug="meet-martha", img="t4.png", pos="50% 40%", h="75,000+ gifts later, I have opinions.", s="Founder notes on gifting that actually gets used.", cta="Meet Martha", logo=False),
 ]
